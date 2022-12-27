@@ -1,0 +1,10 @@
+name: mlp
+channels:
+        - defaults
+        - conda-forge
+dependencies:
+        - pip
+        - ipython
+        - jupyter
+        - pip:
+                - -r requirements.txt
