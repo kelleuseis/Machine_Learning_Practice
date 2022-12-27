@@ -1,3 +1,4 @@
+kaggle
 numpy >= 1.13.0
 scipy
 pandas
@@ -6,3 +7,7 @@ seaborn
 matplotlib
 sphinx
 xgboost
+torch
+torchvision
+pycm
+livelossplot
