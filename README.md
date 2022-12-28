@@ -24,7 +24,7 @@ For the data zip file to download successfully, please ensure your <code>~/.kagg
 
 If not, please create a new token from within your Kaggle account settings, then move the token from the <code>Downloads</code> folder to the <code>~/.kaggle</code> folder.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gems-hcl4517/Machine_Learning_Practice/blob/main/INGV_Volcanic_Eruption_Prediction/model.ipynb)<br>
 
 ### 2. Titanic - Machine Learning from Disaster
 <a href="https://www.kaggle.com/competitions/titanic">Link to Kaggle Competition</a>
