@@ -2,11 +2,13 @@ kaggle
 numpy >= 1.13.0
 scipy
 pandas
-scikit-learn == 1.0.2
+scikit-learn >= 1.2.0
+imblearn
 seaborn
 matplotlib
 sphinx
 xgboost
+umap-learn
 torch
 torchvision
 pycm
