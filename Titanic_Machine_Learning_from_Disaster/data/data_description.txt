@@ -1,0 +1,31 @@
+PassengerId: Unique number assigned to passenger
+ 
+Pclass: Ticket Class
+	1	1ST CLASS
+	2	2ND CLASS
+	3	3RD CLASS
+
+Survived: Indicates state of survival
+	0	NO
+	1	YES
+
+Name: Name of Passenger (LAST, TITLE. FIRST MIDDLE (NICKNAME))
+
+Sex: Gender of Passenger
+
+Age: Age of Passenger in Years
+
+SibSp: # of siblings / spouses aboard the Titanic (does not include fiances and mistresses)
+
+Parch: # of parents / children aboard the Titanic
+
+Ticket: Ticket Number
+
+Fare: Passenger Fare in Pounds
+
+Cabin: Cabin Number
+
+Embarked: Port of Embarkation
+	C	CHERBOURG
+	Q	QUEENSTOWN
+	S	SOUTHAMPTON
