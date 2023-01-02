@@ -52,5 +52,6 @@ if __name__ == "__main__":
             f'Prediction column needs to be labelled as {colname[dirname]}'
 
     acc_score = accuracy_score(pred[colname[dirname]], real[colname[dirname]])
+
     print(f'Accuracy Score: {np.round(acc_score, 6)}')
     print(f'Indicative Percentile Rank: {np.round(*df[df.score>=acc_score].head(1).pct.values, 6)}')
