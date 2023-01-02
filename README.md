@@ -10,7 +10,6 @@ conda env create -f environment.yml
 
 ## Contents
 ### INGV - Volcanic Eruption Prediction :volcano:
-<a href="https://www.kaggle.com/competitions/predict-volcanic-eruptions-ingv-oe/">Link to Kaggle Competition</a>
 
 > What if scientists could anticipate volcanic eruptions as they predict the weather? While determining rain or shine days in advance is more difficult, weather reports become more accurate on shorter time scales. A similar approach with volcanoes could make a big impact. Just one unforeseen eruption can result in tens of thousands of lives lost. If scientists could reliably predict when a volcano will next erupt, evacuations could be more timely and the damage mitigated.
 
@@ -34,7 +33,8 @@ For the data zip file to download successfully, please ensure your <code>~/.kagg
 
 If not, please create a new token from within your Kaggle account settings, then move the token from the <code>Downloads</code> folder to the <code>~/.kaggle</code> folder.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gems-hcl4517/Machine_Learning_Practice/blob/main/INGV_Volcanic_Eruption_Prediction/model.ipynb)<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gems-hcl4517/Machine_Learning_Practice/blob/main/INGV_Volcanic_Eruption_Prediction/model.ipynb)
+[![Link to Kaggle Competition](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/competitions/predict-volcanic-eruptions-ingv-oe/)
 
 <p align="center">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
 
@@ -51,6 +51,8 @@ Each exercise includes the following:
 > This is a fun competition aimed at helping you get started with machine learning.  While the dataset is publicly available on the internet, looking up the answers defeats the entire purpose. So seriously, don't do that.
 
 -----------------------------------------------------------------------------------------------------
+<details>
+
 ### 1. Titanic - Machine Learning from Disaster :ship:
 
 <p align="center">
@@ -58,13 +60,15 @@ Each exercise includes the following:
 	<sub><sup>Adapted from GIF animation by Artistosteles, Wikimedia Commons</sup></sub>
 </p>
 
-<a href="https://www.kaggle.com/competitions/titanic">Link to Kaggle Competition</a>
+[![Link to Kaggle Competition](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/competitions/titanic)
 
 ### 2. House Prices - Advanced Regression Techniques :house:
-<a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques">Link to Kaggle Competition</a>
+[![Link to Kaggle Competition](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
 ### 3. Digit Recognizer :1234:
-<a href="https://www.kaggle.com/competitions/digit-recognizer/overview">Link to Kaggle Competition</a> 
+[![Link to Kaggle Competition](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/competitions/digit-recognizer)
+
+</details>
 
 <p align="center">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
 
